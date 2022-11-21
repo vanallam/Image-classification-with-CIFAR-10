@@ -1,6 +1,6 @@
 # Image-classification-with-CIFAR-10
 
-I built an image classification model from scratch and trained it by CIFAR-10 dataset, I worked on Google Colab platform to train the model
+Building an image classification model from scratch and training it by CIFAR-10 dataset, I worked on Google Colab platform to train the model
 
 # The model
 
